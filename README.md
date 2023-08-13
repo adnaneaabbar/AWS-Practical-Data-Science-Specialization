@@ -2,8 +2,7 @@
 This repo contains my lab submissions to complete the Practical Data Science on AWS Specialization.
 * learning from **@DeepLearning.AI**
 
-![Specialization Roadmap](https://github.com/adnaneaabbar/AWS-Practical-Data-Science-Specialization/blob/master/PDS_AWS.PNG)
-
+![Specialization Roadmap](https://github.com/adnaneaabbar/AWS-Practical-Data-Science-Specialization/blob/master/PDS_AWS.png)
 
 ## About this Specialization
 * The Practical Data Science Specialization brings together these disciplines using purpose-built ML tools in the AWS cloud. It helps you develop the practical skills to effectively deploy your data science projects and overcome challenges at each step of the ML workflow using Amazon SageMaker. 
